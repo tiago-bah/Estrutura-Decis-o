@@ -1,6 +1,6 @@
 # Estrutura de Decisão 
 
-## IF-ELCE
+## IF-ELSE
 
 - Exemplos 
 - Lista de Exercícios 01 
